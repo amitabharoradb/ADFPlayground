@@ -1,9 +1,9 @@
 {
 	"name": "amitabh-arora-playground-adf",
-	"location": "eastus2",
+	"location": "eastus",
 	"identity": {
 		"type": "SystemAssigned",
-		"principalId": "a3aa3670-18da-4492-9842-b0ac89251708",
+		"principalId": "bf29d071-3368-4617-893e-fb71838881ed",
 		"tenantId": "9f37a392-f0ae-4280-9796-f1864a10effc"
 	}
 }
